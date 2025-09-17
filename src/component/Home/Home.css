@@ -1,0 +1,13 @@
+.banner{
+    background-image: url(https://t3.ftcdn.net/jpg/02/52/12/40/360_F_252124067_aCtp9ZD934RboKmjJzkXiwYDL7XkNjpn.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 90vh;
+}
+.cover{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.3;
+}
